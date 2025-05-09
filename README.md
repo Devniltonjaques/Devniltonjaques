@@ -16,6 +16,11 @@ Além disso:
 - Gosto de **resolver problemas com lógica**, seja em sites ou aplicações simples.
 - Produzo conteúdo no YouTube no canal [@NiltonJaquess](https://www.youtube.com/@NiltonJaquess).
 
+
+### 🌐 Meu Portfólio Online
+
+🔗 Acesse aqui: [marytrufas.netlify.app](https://marytrufas.netlify.app)
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
